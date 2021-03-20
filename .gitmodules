@@ -34,3 +34,9 @@
 [submodule "TrueTime.swift"]
 	path = TrueTime.swift
 	url = https://github.com/instacart/TrueTime.swift.git
+[submodule "xdrip-client-swift"]
+	path = xdrip-client-swift
+	url = https://github.com/4gra/xdrip-client-swift
+[submodule "LibreTransmitter"]
+	path = LibreTransmitter
+	url = https://github.com/4gra/LibreTransmitter
