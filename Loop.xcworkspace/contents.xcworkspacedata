@@ -46,4 +46,12 @@
    <FileRef
       location = "group:TrueTime.swift/TrueTime.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:LibreTransmitter/LibreTransmitter.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:xdrip-client-swift/xDripClient.xcodeproj">
+   </FileRef>
 </Workspace>
+
+
