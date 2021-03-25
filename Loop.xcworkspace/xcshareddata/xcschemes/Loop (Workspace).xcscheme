@@ -203,11 +203,11 @@
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
+            buildForTesting = "NO"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
             buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
+            buildForAnalyzing = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C136AA2923116E32008A320D"
@@ -231,11 +231,11 @@
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
+            buildForTesting = "NO"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
             buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
+            buildForAnalyzing = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B40BF24B23ABCE0400A43CEE"
@@ -328,6 +328,34 @@
                ReferencedContainer = "container:Loop/Loop.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "NO"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "4DCEF2591D41A2A200724BCD"
+               BuildableName = "G4ShareSpyTests.xctest"
+               BlueprintName = "G4ShareSpyTests"
+               ReferencedContainer = "container:G4ShareSpy/G4ShareSpy.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "NO"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C1FFAF7F213323CC00C50C1D"
+               BuildableName = "OmniKitTests.xctest"
+               BlueprintName = "OmniKitTests"
+               ReferencedContainer = "container:rileylink_ios/RileyLink.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
@@ -399,16 +427,6 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4DCEF2591D41A2A200724BCD"
-               BuildableName = "G4ShareSpyTests.xctest"
-               BlueprintName = "G4ShareSpyTests"
-               ReferencedContainer = "container:G4ShareSpy/G4ShareSpy.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
                BlueprintIdentifier = "43CABDFC1C3506F100005705"
                BuildableName = "CGMBLEKitTests.xctest"
                BlueprintName = "CGMBLEKitTests"
@@ -433,16 +451,6 @@
                BuildableName = "LoopTests.xctest"
                BlueprintName = "LoopTests"
                ReferencedContainer = "container:Loop/Loop.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C1FFAF7F213323CC00C50C1D"
-               BuildableName = "OmniKitTests.xctest"
-               BlueprintName = "OmniKitTests"
-               ReferencedContainer = "container:rileylink_ios/RileyLink.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
