@@ -7,23 +7,13 @@ This repository uses git submodules to pull in the various workspace dependencie
 To clone this repo:
 
 ```
-git clone --branch=<branch> --recurse-submodules https://github.com/LoopKit/LoopWorkspace
+git clone --branch=<branch> --recurse-submodules https://github.com/<user>/LoopWorkspace
 ```
 
 Replace `<branch>` with the initial LoopWorkspace repository branch you wish to checkout.
 
-## Open
+## Do Not Use
 
-Change to the cloned directory and open the workspace in Xcode:
+It is not recommended that anyone attempt to build or run this Loop Workspace - it is for personal testing only.
 
-```
-cd LoopWorkspace
-xed .
-```
-
-## Build
-
-Select the "Loop (Workspace)" scheme (not the "Loop" scheme) and Build, Run, or Test.
-
-<a href="/docs/scheme-selection.png"><img src="/docs/scheme-selection.png?raw=true" alt="Image showing how to select the Loop (Workspace) scheme in Xcode" width="400"></a>
-
+Please see [upstream](https://github.com/LoopKit/Loop/).
