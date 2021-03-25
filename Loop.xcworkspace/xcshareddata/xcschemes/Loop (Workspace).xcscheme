@@ -294,6 +294,34 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B40BF25D23ABD47400A43CEE"
+               BuildableName = "LibreTransmitterPlugin.loopplugin"
+               BlueprintName = "LibreTransmitterPlugin"
+               ReferencedContainer = "container:LibreTransmitter/LibreTransmitter.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "CE95D35C25D1362B00FE161C"
+               BuildableName = "xDripClientPlugin.loopplugin"
+               BlueprintName = "xDripClientPlugin"
+               ReferencedContainer = "container:xdrip-client-swift/xDripClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "43776F8B1B8022E90074EA36"
                BuildableName = "Loop.app"
                BlueprintName = "Loop"
