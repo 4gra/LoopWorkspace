@@ -19,7 +19,7 @@
 	url = https://github.com/LoopKit/G4ShareSpy.git
 [submodule "rileylink_ios"]
 	path = rileylink_ios
-	url = https://github.com/4gra/rileylink_ios.git
+	url = https://github.com/ps2/rileylink_ios
 	branch = dev
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
