@@ -5,6 +5,7 @@
 [submodule "LoopKit"]
 	path = LoopKit
 	url = https://github.com/4gra/LoopKit.git
+	branch = dev
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
 	url = https://github.com/LoopKit/CGMBLEKit.git
