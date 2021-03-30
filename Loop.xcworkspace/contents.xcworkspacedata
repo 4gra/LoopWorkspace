@@ -37,4 +37,10 @@
    <FileRef
       location = "group:MKRingProgressView/MKRingProgressView.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:LibreTransmitter/LibreTransmitter.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:xdrip-client-swift/xDripClient.xcodeproj">
+   </FileRef>
 </Workspace>
