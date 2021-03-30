@@ -161,11 +161,11 @@
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
+            buildForTesting = "NO"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C136AA2923116E32008A320D"
@@ -231,6 +231,20 @@
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
+            buildForTesting = "NO"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "4DCEF24F1D41A2A200724BCD"
+               BuildableName = "G4ShareSpy.framework"
+               BlueprintName = "G4ShareSpy"
+               ReferencedContainer = "container:G4ShareSpy/G4ShareSpy.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
             buildForTesting = "YES"
             buildForRunning = "YES"
             buildForProfiling = "YES"
@@ -238,10 +252,24 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4DCEF24F1D41A2A200724BCD"
-               BuildableName = "G4ShareSpy.framework"
-               BlueprintName = "G4ShareSpy"
-               ReferencedContainer = "container:G4ShareSpy/G4ShareSpy.xcodeproj">
+               BlueprintIdentifier = "432B0E871CDFC3C50045347B"
+               BuildableName = "xDripClient.framework"
+               BlueprintName = "xDripClient"
+               ReferencedContainer = "container:xdrip-client-swift/xDripClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "43A8EC81210E664300A81379"
+               BuildableName = "xDripClientUI.framework"
+               BlueprintName = "xDripClientUI"
+               ReferencedContainer = "container:xdrip-client-swift/xDripClient.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
