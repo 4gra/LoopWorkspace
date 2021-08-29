@@ -25,3 +25,9 @@
 [submodule "MKRingProgressView"]
 	path = MKRingProgressView
 	url = https://github.com/LoopKit/MKRingProgressView.git
+[submodule "NightscoutAPIClient"]
+	path = NightscoutAPIClient
+	url = https://github.com/4gra/NightscoutAPIClient.git
+[submodule "xdrip-client-swift"]
+	path = xdrip-client-swift
+	url = https://github.com/4gra/xdrip-client-swift.git
