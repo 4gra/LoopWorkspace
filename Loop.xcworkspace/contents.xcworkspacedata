@@ -29,11 +29,17 @@
       location = "group:G4ShareSpy/G4ShareSpy.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:xdrip-client-swift/xDripClient.xcodeproj">
+    </FileRef>
+   <FileRef
       location = "group:rileylink_ios/RileyLink.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Amplitude-iOS/Amplitude.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:NightscoutAPIClient/NightscoutAPIClient.xcodeproj">
+    </FileRef>
    <FileRef
       location = "group:MKRingProgressView/MKRingProgressView.xcodeproj">
    </FileRef>

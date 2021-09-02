@@ -266,6 +266,48 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "38F61398234F3066003FB95D"
+               BuildableName = "NightscoutAPIClient.framework"
+               BlueprintName = "NightscoutAPIClient"
+               ReferencedContainer = "container:NightscoutAPIClient/NightscoutAPIClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "432B0E871CDFC3C50045347B"
+               BuildableName = "xDripClient.framework"
+               BlueprintName = "xDripClient"
+               ReferencedContainer = "container:xdrip-client-swift/xDripClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "43A8EC81210E664300A81379"
+               BuildableName = "xDripClientUI.framework"
+               BlueprintName = "xDripClientUI"
+               ReferencedContainer = "container:xdrip-client-swift/xDripClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "A9AD37DE225EEE850058C179"
                BuildableName = "CGMBLEKit.framework"
                BlueprintName = "CGMBLEKit-watchOS"
@@ -456,6 +498,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "12C972CA24105C3600E9CDDB"
+            BuildableName = "Amplitude.framework"
+            BlueprintName = "Amplitude_iOS"
+            ReferencedContainer = "container:Amplitude-iOS/Amplitude.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
